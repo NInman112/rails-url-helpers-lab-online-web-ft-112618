@@ -10,7 +10,7 @@ class StudentsController < ApplicationController
 
   def activate
     binding.pry
-  end 
+  end
 
   private
 
